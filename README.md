@@ -16,3 +16,6 @@ item. The item is transferred to the winning bidder. Total money collected is th
 4. Deploy with JavaScript VM
 5. Open under the deployed contract.
 6. Interact with it as I have demonstrated in the attached video.Deployed Contract
+
+## Deployed Image
+![Deployed Contract](Image/contract.jpg)
