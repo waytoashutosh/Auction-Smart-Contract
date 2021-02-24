@@ -1,6 +1,6 @@
-# Auction-Smart-Contract
-A smart contract for auction system fund raising for a good cause. There is a chair person who hosts the auction and he can also bid. Users have to
-register on their own.Each user can buy fixed number of tokens which he can then bid on the listed items. At the end of the auction, the winner is decided for each item by the host.
+# Auction Smart Contract
+A smart contract for auction system fund raising for a good cause. There is a chair person who hosts the auction and he can also bid. Users have to register on their own.Each user can buy fixed number of tokens which he can then bid on the listed items. At the end of the auction, the winner is decided for each item by the host.\
+\
 After the auction period ends the chairperson, checks the collection for each item and randomly selects a ticket from each item’s box to determine the winning bidder for that
 item. The item is transferred to the winning bidder. Total money collected is the fundraised by the penny social auction.
 
